@@ -1,0 +1,10 @@
+.about__heading {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 100px;
+}

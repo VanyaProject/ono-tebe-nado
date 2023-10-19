@@ -1,0 +1,10 @@
+.card__text {
+    position: absolute;
+    bottom: 50px;
+    left: 40px;
+    right: 40px;
+    z-index: 1;
+    font-size: 20px;
+    line-height: 120%;
+    color: white;
+}

@@ -1,0 +1,9 @@
+.footer__menu-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    font-size: 18px;
+    margin-top: 5px;
+}

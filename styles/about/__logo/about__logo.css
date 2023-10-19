@@ -1,0 +1,11 @@
+.about__logo {
+    margin: auto;
+    background-color: black;
+    background-image: url(../../../images/logo-white.svg);
+    background-size: 140px 140px;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+}

@@ -1,0 +1,5 @@
+.header__links-list_item {
+    list-style: circle;
+    list-style-position: inside;
+    padding-right: 13px;
+}

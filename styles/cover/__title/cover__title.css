@@ -1,0 +1,9 @@
+.cover__title {
+    position: relative;
+    color: white;
+    font-size: 100px;
+    padding: 165px 50px 135px 50px;
+    text-transform: uppercase;
+    letter-spacing: 30px;
+    z-index: 2;
+}
