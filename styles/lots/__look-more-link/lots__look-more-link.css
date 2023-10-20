@@ -3,3 +3,8 @@
     padding-top: 30px;
     margin-left: 90px;
 }
+
+.lots__look-more-text {
+    text-decoration: none;
+    border-bottom: 1px solid black;
+}

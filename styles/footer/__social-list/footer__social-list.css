@@ -1,6 +1,6 @@
 .footer__social-list {
     display: flex;
     justify-content: end;
-    margin-top: 10px;
+
     list-style: none;
 }

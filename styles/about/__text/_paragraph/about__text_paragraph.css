@@ -1,3 +1,9 @@
-.about__text_paragraph:first-child {
-    margin-bottom: 35px;
+.about__text_paragraph {
+    margin-left: 20px;
+    margin-top: 10px;
 }
+
+.about__text_paragraph:not(:first-child) {
+    margin-top: 25px;
+}
+

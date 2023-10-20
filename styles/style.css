@@ -18,8 +18,8 @@
 @import url(../styles/cover/__description/cover__description.css);
 @import url(../styles/cover/__description-text/cover__description-text.css);
 @import url(../styles/bet-buttom/bet-buttom.css);
-@import url(../styles/lots/__card-list/lots__card-list.css);
 @import url(../styles/lots/__heading/lots__heading.css);
+@import url(../styles/lots/__card-list/lots__card-list.css);
 @import url(../styles/lots/__card-list/_item/lots__card-list_item.css);
 @import url(../styles/card/__type/_film/card__type_film.css);
 @import url(../styles/card/__type/_book/card__type_book.css);
@@ -42,7 +42,6 @@
 @import url(../styles/footer/__social-list/footer__social-list.css);
 @import url(../styles/footer/__social-list/_item/footer__social-list_item.css);
 @import url(../styles/footer/__social-icon/footer__social-icon.css);
-
 
 
 
